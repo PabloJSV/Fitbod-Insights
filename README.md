@@ -1,1 +1,1 @@
-# Fitbod-Insights
+I've been using Fitbod for a long time, wishing for it to have more insights about my fitness data. My objective with this repo is applying my own ideas to the data export I can get from it
